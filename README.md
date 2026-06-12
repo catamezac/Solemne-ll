@@ -12,7 +12,8 @@ Aquí se puede acceder al proyecto y al código editable en p5.js:
 **Diagrama de flujo**
 
 
-!
+
+
 
 
 
