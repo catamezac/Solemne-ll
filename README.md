@@ -4,12 +4,13 @@
 
 Estudiante: Catalina Meza
 
-**Link al sketch**
+
 
 Aquí se puede acceder al proyecto y al código editable en p5.js:
 
 
 [Link editable](https://editor.p5js.org/catalina.meza3/sketches/IqkQNjtyW)
+
 [Archivo repositorio github](Solemne/sketch.js)
 
 
@@ -46,6 +47,8 @@ Aunque el cartel no lleva la firma de un diseñador con nombre y apellido propio
 
 En realidad, no es una pieza rescatada de los archivos originales de la escuela de los años 20, sino que nació de las manos de un diseñador gráfico contemporáneo anónimo. Su intención fue rendir homenaje al centenario de la Bauhaus (1919-2019), inspirándose en las vanguardistas clases de fotografía, luz y movimiento que maestros como László Moholy-Nagy dictaban a sus alumnos. Es, en esencia, un tributo moderno al espíritu de una comunidad de creadores que cambió nuestra forma de ver el mundo.
 
+![Imagen de la obra](Solemne/referente.webp)
+
 
 ## Descripción objetiva
 
@@ -73,6 +76,7 @@ El sistema funciona a partir de la interacción constante entre el usuario y el 
 Estos valores se procesan con la función map(), que los convierte en rangos útiles para modificar el tamaño de los círculos y la deformación de la retícula. Después, estos valores se aplican usando bucles y algunas condicionales que recorren todos los elementos.
 
 Como resultado, la imagen responde en tiempo real a los movimientos del mouse. Los círculos cambian de tamaño, la estructura se deforma y se generan variaciones visuales constantes, lo que hace que la composición se sienta dinámica e interactiva.
+
 
 
 
