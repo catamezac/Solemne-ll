@@ -9,7 +9,8 @@ Estudiante: Catalina Meza
 Aquí se puede acceder al proyecto y al código editable en p5.js:
 
 
-[Ver sketch](https://editor.p5js.org/catalina.meza3/sketches/IqkQNjtyW)
+[Link editable](https://editor.p5js.org/catalina.meza3/sketches/IqkQNjtyW)
+[Archivo repositorio github](Solemne/sketch.js)
 
 
 ## Diagrama de flujo
